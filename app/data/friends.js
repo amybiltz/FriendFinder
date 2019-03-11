@@ -1,4 +1,4 @@
-var friendsArray = [
+var friends = [
 	{
 		name: 'Amy',
 		photo: 'http://icons-for-free.com/free-icons/png/512/1325170.png',
@@ -161,4 +161,4 @@ var friendsArray = [
 	}
 ];
 
-module.exports = friendsArray;
+module.exports = friends;
